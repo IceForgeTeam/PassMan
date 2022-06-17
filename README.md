@@ -1,8 +1,5 @@
 # PassMan
-Free and security password manager
+Бесплатный и свободный шифровальщик данных
 ---
-# Features
-Security - more keys, security.
-
 # P.S.
 Glory to GNU and FSF!
